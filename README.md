@@ -24,8 +24,7 @@ This project presents an interactive Antimicrobial Susceptibility Dashboard deve
 
   ## DASHBOARD VIEW
 
-  <img src="./
-  ANTIMICROBIAL_SUSCEPTIBILITY_DASHBOARD.png alt="ANTIMICROBIAL SUSCEPTIBILITY DASHBOARD" width="100%">
+ ![Antimicrobial Susceptibility Dashboard](./ANTIMICROBIAL_SUSCEPTIBILITY_DASHBOARD.png)
 
 ## KEY RESULTS
 - Patient count:                         212
